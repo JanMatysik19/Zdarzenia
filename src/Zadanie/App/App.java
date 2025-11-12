@@ -1,7 +1,7 @@
 package Zadanie.App;
 
-import Zadanie.Panes.Body;
-import Zadanie.Panes.Main;
+import Zadanie.StructurePanes.Body;
+import Zadanie.StructurePanes.Main;
 import Zadanie.ToolBar.ToolBar;
 
 import javax.swing.*;

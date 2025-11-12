@@ -1,4 +1,4 @@
-package Zadanie.Panes;
+package Zadanie.StructurePanes;
 
 import Zadanie.App.AppInitials;
 import Zadanie.Logger.ClearBtn;
